@@ -10,10 +10,15 @@ struct Student{
    int rollNo;
 };
 
-
+union Data{
+  int val1;
+  float val2;
+  char val3;
+};
 
 int main(){
-    Student s1;
+    Student s1,s2;
+    Data d;
     s1.studentName = "Student1";
     s1.age = 22;
     s1.stream = "food tech";
