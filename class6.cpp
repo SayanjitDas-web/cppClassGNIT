@@ -47,7 +47,7 @@ int main(){
     return 0;
 }
 
-// https://github.com/SayanjitDas-web/cppClassGNIT
+// https://github.com/SayanjitDas-web
 
 // structure :-
 // 1. can be manipulated;
